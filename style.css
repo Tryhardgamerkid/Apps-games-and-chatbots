@@ -1,0 +1,42 @@
+body
+{
+    text-align: center;
+}
+.container{
+  background-color: blue;  
+}
+#app {
+    background-color: blueviolet;
+}
+
+#myCarousel
+{
+    background-color: aliceblue;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : cyan;
+    font-size: 30px;
+}
+h1
+{
+    background-color: aquamarine;
+    -webkit-text-fill-color: aqua;
+}
+h2
+{
+ -webkit-text-fill-color: burlywood;
+}
+h5
+{
+    -webkit-text-fill-color: blueviolet;
+
+}
